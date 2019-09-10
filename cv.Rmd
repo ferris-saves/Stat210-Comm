@@ -1,0 +1,33 @@
+---
+title: "CV"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Curriculum Vitae || Ferris S. Tucker
+(myp) hon - enu - mber | myemail @ domain.com
+
+###**Previous Experience** |
+
+*   I would put a job here ( **DATE** )
+
+    * *kinds, of, tasks*
+
+    * *list, of, skills*
+    
+###**Education** |
+
+*   School #1 ( **DATE - CHRONOLOGICAL Z-A** )
+
+    * *studied, stuff*
+
+    * *any awards*
+    
+*   School #2 ( **DATE - CHRONOLOGICAL Z-A** )
+
+    * *studied, stuff*
+
+    * *any awards*
